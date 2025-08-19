@@ -67,7 +67,7 @@ Siempre manteniendo el **criterio humano**: analizo, adapto y tomo las decisione
 ## 📊 Estadísticas  
 
 ![Oscar's GitHub stats](https://github-readme-stats.vercel.app/api?username=OLuciani&show_icons=true&theme=tokyonight)  
-![Top Langs](https://img.shields.io/github/top-langs/?username=OLuciani&layout=compact&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OLuciani&layout=compact&theme=tokyonight) 
 
 ---
 
