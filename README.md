@@ -16,6 +16,7 @@ Aplicación para la **reserva de cabañas y alojamientos** con calendario intera
 - Backend completo con **Node.js + Express + MongoDB**, implementando una **Clean Architecture simplificada**.
 - Autenticación segura con cookies y tokens JWT.
 - **Objetivo:** ofrecer a dueños y clientes una experiencia simple y confiable en la gestión de reservas.
+- 🔗 **Ver app en producción**: [Cabin Rentals](https://cabin-rentals-frontend.vercel.app)
 
 ### 🍽️ Comé x menos
 Plataforma híbrida de **descuentos gastronómicos** que conecta a usuarios con restaurantes, bares, cafés y panaderías.
@@ -23,6 +24,8 @@ Plataforma híbrida de **descuentos gastronómicos** que conecta a usuarios con 
 - Aplicación web completa en **Next.js + TypeScript + TailwindCSS**, con **landing page pública** y **dashboard para administradores y empleados** con cuentas propias.
 - Backend en **Node.js + Express + MongoDB**, organizado con una **arquitectura por capas / MVC**.
 - **Objetivo:** brindar a los comercios un canal directo para atraer clientes y a los usuarios la posibilidad de ahorrar en sus consumos diarios.
+- 🔗 **Ver app en producción**: [Comé x menos](https://discount-project-web.vercel.app)
+- ▶️ **Ver video demo**: [Demo en funcionamiento](https://discount-project-web.vercel.app/videos/demo-video-app-funcionando.mp4)
 
 ### 💼 Portfolio personal
 Mi sitio web personal desarrollado con **Vite + React + TypeScript + TailwindCSS**.
