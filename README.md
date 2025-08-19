@@ -64,10 +64,16 @@ Siempre manteniendo el **criterio humano**: analizo, adapto y tomo las decisione
 
 ---
 
-## 📊 Estadísticas  
+## 📊 Estadísticas y Lenguajes  
 
 ![Oscar's GitHub stats](https://github-readme-stats.vercel.app/api?username=OLuciani&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OLuciani&layout=compact&theme=tokyonight) 
+
+### 🌐 Lenguajes principales
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white) 
 
 ---
 
