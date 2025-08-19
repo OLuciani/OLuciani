@@ -12,60 +12,32 @@ Me apasiona crear soluciones digitales que realmente resuelvan problemas y mejor
 
 ### 🏡 Cabin Rentals
 Aplicación para la **reserva de cabañas y alojamientos** con calendario interactivo de disponibilidad.
-
 - Frontend en **Next.js + TypeScript + TailwindCSS**, con **dashboard para administradores** donde pueden gestionar cabañas, disponibilidad y reservas.
 - Backend completo con **Node.js + Express + MongoDB**, implementando una **Clean Architecture simplificada**.
 - Autenticación segura con cookies y tokens JWT.
 - **Objetivo:** ofrecer a dueños y clientes una experiencia simple y confiable en la gestión de reservas.
 
----
-
 ### 🍽️ Comé x menos
 Plataforma híbrida de **descuentos gastronómicos** que conecta a usuarios con restaurantes, bares, cafés y panaderías.
-
 - App móvil en **React Native + Expo**.
 - Aplicación web completa en **Next.js + TypeScript + TailwindCSS**, con **landing page pública** y **dashboard para administradores y empleados** con cuentas propias.
 - Backend en **Node.js + Express + MongoDB**, organizado con una **arquitectura por capas / MVC**.
 - **Objetivo:** brindar a los comercios un canal directo para atraer clientes y a los usuarios la posibilidad de ahorrar en sus consumos diarios.
 
----
-
 ### 💼 Portfolio personal
 Mi sitio web personal desarrollado con **Vite + React + TypeScript + TailwindCSS**.
-
-Incluye información sobre mí, mis proyectos destacados y formas de contacto.
-
+Incluye información sobre mí, mis proyectos destacados y formas de contacto.  
 🔗 [Visitar portfolio](https://oscar-luciani.netlify.app)
-
----
 
 ### 🧾 PDF Invoice Uploader to Google Sheets
 Aplicación de escritorio desarrollada en **Python** para procesar facturas en PDF y cargar automáticamente los datos relevantes en una hoja de **Google Sheets**.
-
 - Extrae datos clave desde facturas: emisor, número, fecha de emisión y total.
-- Carga la información en una hoja previamente configurada. Cada ejecución borra los datos antiguos (**sheet.clear()**), por lo que se recomienda hacer copias de seguridad si se necesita mantener registros.
-- Interfaz gráfica simple con **tkinter** para seleccionar la carpeta de archivos PDF a procesar.
+- Carga la información en una hoja previamente configurada (**sheet.clear()** borra datos antiguos).
+- Interfaz gráfica simple con **tkinter** para seleccionar la carpeta de archivos PDF.
 - Uso de **Python 3, pdfplumber, gspread, google-auth, python-dotenv**.
 - Creación de ejecutable con **PyInstaller** y instalador con **Inno Setup**.
 - **Objetivo:** agilizar la carga de datos de facturas en Google Sheets, automatizando un proceso repetitivo y propenso a errores.
-
----
-
-## Contribuciones en proyectos de No Country
-**No Country** es una comunidad de desarrollo web y mobile donde se organizan proyectos colaborativos para practicar y reforzar habilidades reales de programación. Durante mi participación como **Frontend Developer**:
-
-- Participé en **3 proyectos distintos**, trabajando activamente en el desarrollo de interfaces y funcionalidades del frontend.
-- Cada proyecto tenía una duración total de **5 semanas**, dividido en **sprints semanales**, presentando avances cada semana a un **Team Leader**.
-- Al finalizar cada proyecto, se realizaba una **presentación final ante el director de No Country y todos los grupos participantes**.
-- Trabajé **junto a desarrolladores Backend, QA y diseñadores UX/UI**, aprendiendo buenas prácticas de desarrollo, colaboración y cómo integrar distintos stacks de tecnología.
-- Mis contribuciones fueron **mergeadas en los repositorios de los proyectos**, lo que se refleja en GitHub como **Achievement “Pull Shark”** 🦈:
-  - Indica que **pull requests abiertas por mí fueron aceptadas y fusionadas**.
-  - Aparece en **Achievements** de mi perfil y muestra la historia de las PR mergeadas, como por ejemplo:
-    - `No-Country/s11-21-react-next#5 · 2nd pull request merged`
-    - `No-Country/s11-21-react-next#12 · 16th pull request merged`
-- Esto evidencia que mis aportes fueron validados y reconocidos dentro de la comunidad.
  
-
 ---
 
 ### Contribuciones en proyectos de No Country  
