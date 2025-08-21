@@ -17,7 +17,7 @@ Aplicación para la **reserva de cabañas y alojamientos** con calendario intera
 - Autenticación segura con cookies y tokens JWT.
 - **Objetivo:** ofrecer a dueños y clientes una experiencia simple y confiable en la gestión de reservas.
 - 🔗 **Ver app en producción**: [Cabin Rentals](https://cabin-rentals-frontend.vercel.app)
-- ▶️ [![Cabin Rentals Demo](https://img.youtube.com/vi/lTPsboqARaU/0.jpg)](https://youtu.be/lTPsboqARaU)
+- ▶️ [Ver demo de Cabin Rentals](https://youtu.be/lTPsboqARaU)
 
 ### 🍽️ Comé x menos
 Plataforma híbrida de **descuentos gastronómicos** que conecta a usuarios con restaurantes, bares, cafés y panaderías.
