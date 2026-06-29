@@ -58,7 +58,7 @@ https://www.youtube.com/watch?v=BxZd4qBFuaU
 
 https://www.youtube.com/watch?v=Gi-jQn1WKGg
 
-### 📱 Digital Catalog Preview   👈 (NUEVO BLOQUE ACÁ)
+### 📱 Digital Catalog Preview
 
 <p align="center">
   <img src="https://res.cloudinary.com/dccuxukqg/image/upload/v1782747599/SmashHouse-digital-catalog-mobile_fm2yec.jpg" 
