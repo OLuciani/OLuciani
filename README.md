@@ -16,7 +16,7 @@ I'm passionate about creating applications that combine technical quality, user 
 
 ## 🍔 SmashHouse Burgers (2026)
 
-Production-oriented full stack platform developed as a reusable reference implementation for **digital catalogs and e-commerce businesses**.
+Production-oriented full stack base system designed to accelerate the development of **real-world digital catalog and business applications using reusable architecture patterns**.
 
 <p align="center">
   <img src="https://res.cloudinary.com/dccuxukqg/image/upload/v1782746098/SmashHouse-catalog-as-client_sn4oif.jpg" alt="SmashHouse Burgers - Public Catalog" width="900">
