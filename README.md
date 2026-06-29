@@ -62,7 +62,7 @@ https://www.youtube.com/watch?v=Gi-jQn1WKGg
 
 <p align="center">
   <img src="https://res.cloudinary.com/dccuxukqg/image/upload/v1782747599/SmashHouse-digital-catalog-mobile_fm2yec.jpg" 
-  alt="SmashHouse Digital Catalog" width="450">
+  alt="SmashHouse Digital Catalog" width="300">
 </p>
 
 ---
