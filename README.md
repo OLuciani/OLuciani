@@ -19,7 +19,7 @@ I'm passionate about creating applications that combine technical quality, user 
 Production-oriented full stack platform developed as a reusable reference implementation for **digital catalogs and e-commerce businesses**.
 
 <p align="center">
-  <img src="https://res.cloudinary.com/dccuxukqg/image/upload/v1782746098/SmashHouse-catalog-as-client_sn4oif.jpg" alt="SmashHouse Burgers" width="900">
+  <img src="https://res.cloudinary.com/dccuxukqg/image/upload/v1782746098/SmashHouse-catalog-as-client_sn4oif.jpg" alt="SmashHouse Burgers - Public Catalog" width="900">
 </p>
 
 ### Highlights
@@ -57,6 +57,13 @@ https://www.youtube.com/watch?v=BxZd4qBFuaU
 🎥 **Digital Catalog Demo**
 
 https://www.youtube.com/watch?v=Gi-jQn1WKGg
+
+### 📱 Digital Catalog Preview   👈 (NUEVO BLOQUE ACÁ)
+
+<p align="center">
+  <img src="https://res.cloudinary.com/dccuxukqg/image/upload/v1782747599/SmashHouse-digital-catalog-mobile_fm2yec.jpg" 
+  alt="SmashHouse Digital Catalog" width="450">
+</p>
 
 ---
 
