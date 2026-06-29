@@ -40,9 +40,19 @@ Production-oriented full stack platform developed as a reusable reference implem
 
 Next.js • TypeScript • Node.js • Express • MongoDB • Firebase • Cloudinary • Tailwind CSS • Zustand • Clean Architecture
 
-🔗 **Live Application**
+### Live Demo
 
-https://YOUR_SMASHHOUSE_URL
+🔗 **Public Catalog**
+
+https://YOUR_PUBLIC_CATALOG_URL
+
+📱 **QR Digital Catalog**
+
+https://YOUR_DIGITAL_CATALOG_URL
+
+🎥 **Video Demo**
+
+https://YOUR_VIDEO_DEMO_URL
 
 ---
 
@@ -69,7 +79,11 @@ Next.js • TypeScript • Node.js • Express • MongoDB • Firebase • Tail
 
 🔗 **Live Application**
 
-https://YOUR_CABIN_URL
+https://cabin-rentals-frontend.vercel.app
+
+▶️ **Demo Video**
+
+https://www.youtube.com/watch?v=NJH1nDsyVYs
 
 ---
 
@@ -95,9 +109,13 @@ Full stack promotions platform that connects customers with food businesses thro
 
 Next.js • React Native • Node.js • Express • MongoDB • Firebase
 
-🎥 **Demo Video**
+🔗 **Live Application**
 
-https://YOUR_VIDEO_URL
+https://discount-project-web.vercel.app
+
+▶️ **Demo Video**
+
+https://discount-project-web.vercel.app/videos/demo-video-app-funcionando.mp4
 
 ---
 
