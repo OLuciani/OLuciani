@@ -42,17 +42,21 @@ Next.js • TypeScript • Node.js • Express • MongoDB • Firebase • Clou
 
 ### Live Demo
 
-🔗 **Public Catalog**
+🌐 **Web Application**
 
-https://YOUR_PUBLIC_CATALOG_URL
+https://smashhouse-burgers-frontend.vercel.app
 
-📱 **QR Digital Catalog**
+📱 **Digital Catalog**
 
-https://YOUR_DIGITAL_CATALOG_URL
+https://smashhouse-burgers-frontend.vercel.app/digital-catalog
 
-🎥 **Video Demo**
+🎥 **Web Application Demo**
 
-https://YOUR_VIDEO_DEMO_URL
+https://www.youtube.com/watch?v=BxZd4qBFuaU
+
+🎥 **Digital Catalog Demo**
+
+https://www.youtube.com/watch?v=Gi-jQn1WKGg
 
 ---
 
@@ -77,11 +81,13 @@ Production-ready booking platform built for cabin and property rental businesses
 
 Next.js • TypeScript • Node.js • Express • MongoDB • Firebase • Tailwind CSS
 
-🔗 **Live Application**
+### Live Demo
+
+🌐 **Web Application**
 
 https://cabin-rentals-frontend.vercel.app
 
-▶️ **Demo Video**
+🎥 **Web Application Demo**
 
 https://www.youtube.com/watch?v=NJH1nDsyVYs
 
@@ -109,11 +115,13 @@ Full stack promotions platform that connects customers with food businesses thro
 
 Next.js • React Native • Node.js • Express • MongoDB • Firebase
 
-🔗 **Live Application**
+### Live Demo
+
+🌐 **Web Application**
 
 https://discount-project-web.vercel.app
 
-▶️ **Demo Video**
+🎥 **Web Application Demo**
 
 https://discount-project-web.vercel.app/videos/demo-video-app-funcionando.mp4
 
