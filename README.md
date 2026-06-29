@@ -12,9 +12,9 @@ I'm passionate about creating applications that combine technical quality, user 
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-## 🍔 SmashHouse Burgers (2026)
+### 🍔 SmashHouse Burgers (2026)
 
 Production-oriented full stack base system designed to accelerate the development of **real-world digital catalog and business applications using reusable architecture patterns**.
 
@@ -22,7 +22,7 @@ Production-oriented full stack base system designed to accelerate the developmen
   <img src="https://res.cloudinary.com/dccuxukqg/image/upload/v1782746098/SmashHouse-catalog-as-client_sn4oif.jpg" alt="SmashHouse Burgers - Public Catalog" width="900">
 </p>
 
-### Highlights
+#### Highlights
 
 - Public Product Catalog
 - QR Digital Catalog
@@ -36,38 +36,26 @@ Production-oriented full stack base system designed to accelerate the developmen
 - Automatic Session Restoration
 - Reusable Modular Architecture
 
-### Tech Stack
+#### Tech Stack
 
 Next.js • TypeScript • Node.js • Express • MongoDB • Firebase • Cloudinary • Tailwind CSS • Zustand • Clean Architecture
 
-### Live Demo
+#### Live Demo
 
-🌐 **Web Application**
+* 🌐 **Web Application:** [https://smashhouse-burgers-frontend.vercel.app](https://smashhouse-burgers-frontend.vercel.app)
+* 📱 **Digital Catalog:** [https://smashhouse-burgers-frontend.vercel.app/digital-catalog](https://smashhouse-burgers-frontend.vercel.app/digital-catalog)
+* 🎥 **Web Application Demo:** [https://www.youtube.com/watch?v=BxZd4qBFuaU](https://www.youtube.com/watch?v=BxZd4qBFuaU)
+* 🎥 **Digital Catalog Demo:** [https://www.youtube.com/watch?v=Gi-jQn1WKGg](https://www.youtube.com/watch?v=Gi-jQn1WKGg)
 
-https://smashhouse-burgers-frontend.vercel.app
-
-📱 **Digital Catalog**
-
-https://smashhouse-burgers-frontend.vercel.app/digital-catalog
-
-🎥 **Web Application Demo**
-
-https://www.youtube.com/watch?v=BxZd4qBFuaU
-
-🎥 **Digital Catalog Demo**
-
-https://www.youtube.com/watch?v=Gi-jQn1WKGg
-
-### 📱 Digital Catalog Preview
+#### 📱 Digital Catalog Preview
 
 <p align="center">
-  <img src="https://res.cloudinary.com/dccuxukqg/image/upload/v1782747599/SmashHouse-digital-catalog-mobile_fm2yec.jpg" 
-  alt="SmashHouse Digital Catalog" width="300">
+  <img src="https://res.cloudinary.com/dccuxukqg/image/upload/v1782747599/SmashHouse-digital-catalog-mobile_fm2yec.jpg" alt="SmashHouse Digital Catalog" width="300">
 </p>
 
 ---
 
-## 🏡 Cabin Rentals Platform
+### 🏡 Cabin Rentals Platform
 
 Production-ready booking platform built for cabin and property rental businesses.
 
@@ -75,7 +63,7 @@ Production-ready booking platform built for cabin and property rental businesses
   <img src="https://res.cloudinary.com/dccuxukqg/image/upload/v1782746276/image-cabin-rentals-1_tqfvcv.jpg" alt="Cabin Rentals Platform" width="900">
 </p>
 
-### Highlights
+#### Highlights
 
 - Booking Management
 - Availability Calendar
@@ -84,23 +72,18 @@ Production-ready booking platform built for cabin and property rental businesses
 - Administration Dashboard
 - Scalable Architecture
 
-### Tech Stack
+#### Tech Stack
 
 Next.js • TypeScript • Node.js • Express • MongoDB • Firebase • Tailwind CSS
 
-### Live Demo
+#### Live Demo
 
-🌐 **Web Application**
-
-https://cabin-rentals-frontend.vercel.app
-
-🎥 **Web Application Demo**
-
-https://www.youtube.com/watch?v=NJH1nDsyVYs
+* 🌐 **Web Application:** [https://cabin-rentals-frontend.vercel.app](https://cabin-rentals-frontend.vercel.app)
+* 🎥 **Web Application Demo:** [https://www.youtube.com/watch?v=NJH1nDsyVYs](https://www.youtube.com/watch?v=NJH1nDsyVYs)
 
 ---
 
-## 🍽️ Comé x menos
+### 🍽️ Comé x menos
 
 Full stack promotions platform that connects customers with food businesses through a web application, centralized backend and companion mobile app.
 
@@ -108,7 +91,7 @@ Full stack promotions platform that connects customers with food businesses thro
   <img src="https://res.cloudinary.com/dccuxukqg/image/upload/v1782746468/imagen-Come-x-menos_goyp3d.webp" alt="Comé x menos" width="900">
 </p>
 
-### Highlights
+#### Highlights
 
 - Business Dashboard
 - Promotion Management
@@ -118,25 +101,20 @@ Full stack promotions platform that connects customers with food businesses thro
 - Automatic Promotion Expiration
 - Image Optimization
 
-### Tech Stack
+#### Tech Stack
 
 Next.js • React Native • Node.js • Express • MongoDB • Firebase
 
-### Live Demo
+#### Live Demo
 
-🌐 **Web Application**
-
-https://discount-project-web.vercel.app
-
-🎥 **Web Application Demo**
-
-https://discount-project-web.vercel.app/videos/demo-video-app-funcionando.mp4
+* 🌐 **Web Application:** [https://discount-project-web.vercel.app](https://discount-project-web.vercel.app)
+* 🎥 **Web Application Demo:** [https://discount-project-web.vercel.app/videos/demo-video-app-funcionando.mp4](https://discount-project-web.vercel.app/videos/demo-video-app-funcionando.mp4)
 
 ---
 
-# 💼 Professional Experience
+## 💼 Professional Experience
 
-## Frontend Developer — Meddyplus (No Country)
+### Frontend Developer — Meddyplus (No Country)
 
 Collaborated on the development of a medical appointment management platform as part of a multidisciplinary team.
 
@@ -144,7 +122,7 @@ Worked alongside backend developers, UX/UI designers and QA engineers following 
 
 ---
 
-# 🏗 Development Philosophy
+## 🏗 Development Philosophy
 
 I enjoy designing software that solves real business problems.
 
@@ -160,7 +138,7 @@ My goal is to deliver software that businesses can confidently adopt and continu
 
 ---
 
-# 🛠 Tech Stack
+## 🛠 Tech Stack
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
@@ -185,13 +163,13 @@ My goal is to deliver software that businesses can confidently adopt and continu
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 ![Oscar's GitHub stats](https://github-readme-stats.vercel.app/api?username=OLuciani&show_icons=true&theme=tokyonight)
 
 ---
 
-# 🌎 Languages
+## 🌎 Languages
 
 - 🇪🇸 Spanish — Native
 - 🇬🇧 English — Pre-Intermediate (continuously improving)
@@ -199,12 +177,10 @@ My goal is to deliver software that businesses can confidently adopt and continu
 
 ---
 
-# 📫 Let's Connect
+## 📫 Let's Connect
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=white)](https://oscar-luciani.netlify.app)
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/oscarluciani)
-
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/OLuciani)
 
 📧 **Email:** **lucianioscar1@gmail.com**
