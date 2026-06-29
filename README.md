@@ -19,7 +19,7 @@ I'm passionate about creating applications that combine technical quality, user 
 Production-oriented full stack platform developed as a reusable reference implementation for **digital catalogs and e-commerce businesses**.
 
 <p align="center">
-  <img src="YOUR_SMASHHOUSE_IMAGE_URL" alt="SmashHouse Burgers" width="900">
+  <img src="https://res.cloudinary.com/dccuxukqg/image/upload/v1782746098/SmashHouse-catalog-as-client_sn4oif.jpg" alt="SmashHouse Burgers" width="900">
 </p>
 
 ### Highlights
@@ -65,7 +65,7 @@ https://www.youtube.com/watch?v=Gi-jQn1WKGg
 Production-ready booking platform built for cabin and property rental businesses.
 
 <p align="center">
-  <img src="YOUR_CABIN_IMAGE_URL" alt="Cabin Rentals Platform" width="900">
+  <img src="https://res.cloudinary.com/dccuxukqg/image/upload/v1782746276/image-cabin-rentals-1_tqfvcv.jpg" alt="Cabin Rentals Platform" width="900">
 </p>
 
 ### Highlights
@@ -98,7 +98,7 @@ https://www.youtube.com/watch?v=NJH1nDsyVYs
 Full stack promotions platform that connects customers with food businesses through a web application, centralized backend and companion mobile app.
 
 <p align="center">
-  <img src="YOUR_COMEXMENOS_IMAGE_URL" alt="Comé x menos" width="900">
+  <img src="https://res.cloudinary.com/dccuxukqg/image/upload/v1782746468/imagen-Come-x-menos_goyp3d.webp" alt="Comé x menos" width="900">
 </p>
 
 ### Highlights
